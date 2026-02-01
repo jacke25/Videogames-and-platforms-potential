@@ -59,7 +59,9 @@ Insights clave basados en el comportamiento histórico de las ventas.
 ## 📈 Resultados esperados
 
 ✔️ Comprender qué factores están asociados a mayores ventas de videojuegos
+
 ✔️ Detectar plataformas o periodos con mayor potencial comercial
+
 ✔️ Generar recomendaciones accionables para campañas de marketing
 
 ---
